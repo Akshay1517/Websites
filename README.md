@@ -19,5 +19,5 @@ How to use this template:
        >> Start with main.js inside the js folder<br>
     Images
        >> If you want to host your own images, put the image file (.jpg, .png, .gif) inside the images directory.
-          Then the source on an img tag will be
-                &lt img src="/images/your_picture.jpg"  &gt
+          Then the source on an img tag will be<br>
+                <img src="/images/your_picture.jpg">
